@@ -1,0 +1,148 @@
+.how {
+  &__inner {
+    display: flex;
+    margin-top: 104px;
+    margin-left: 80px;
+  }
+  &__subtitle {
+    left: 640px;
+  }
+  &__item {
+    position: relative;
+    &-list {
+      &-item {
+        font-family: sans-serif;
+        font-size: 16px;
+        line-height: 27px;
+        margin-bottom: 38px;
+        position: relative;
+        &::before {
+          content: url("../img/num1.svg");
+          position: absolute;
+          left: -60px;
+          top: 2px;
+        }
+        &_n1 {
+          &::before {
+            content: url("../img/num2.svg");
+          }
+        }
+        &_n2 {
+          &::before {
+            content: url("../img/num3.svg");
+          }
+        }
+        &_n3 {
+          &::before {
+            content: url("../img/num4.svg");
+          }
+        }
+        &_n4 {
+          &::before {
+            content: url("../img/num5.svg");
+          }
+        }
+      }
+    }
+    &_l {
+      width: 625px;
+      margin-right: 248px;
+      margin-left: auto;
+    }
+    &-subtitle {
+      &_l {
+        font-size: 15px;
+        font-family: sans-serif;
+        font-weight: bold;
+        width: 475px;
+        margin-top: 44px;
+        margin-bottom: 35px;
+      }
+    }
+    &-title {
+      font-size: 17px;
+      font-family: sans-serif;
+      font-weight: normal;
+      width: 376px;
+      margin-bottom: 39px;
+      &_l {
+        font-size: 23px;
+        font-family: sans-serif;
+        font-weight: normal;
+      }
+    }
+    &-under-chart {
+      font-size: 13px;
+      font-family: sans-serif;
+      width: 340px;
+      display: block;
+      margin-top: 39px;
+    }
+    &-svg {
+      transform: rotate(-115deg);
+      &-wrap {
+        height: 515px;
+      }
+      &-circle {
+        position: absolute;
+        left: 90px;
+        top: 160px;
+        transition: transform .4s ease-out;
+        &s0 {
+          transform: rotate(110deg);
+          z-index: 2;
+          &_disabled {
+            transform: rotate(270deg);
+          }
+        }
+        &C0 {
+          stroke-dasharray: 1556.73px, 1036.73px;
+          stroke-dashoffset: 1036.73px;
+        }
+        &s1 {
+          z-index: 1;
+          transform: rotate(-70deg);
+          &_disabled {
+
+          }
+        }
+        &C1 {
+          stroke-dasharray: 1306.73px, 1036.73px;
+          stroke-dashoffset: 1036.73px;
+        }
+        &s2 {
+          &_disabled {
+            transform: rotate(-40deg);
+          }
+        }
+        &C2 {
+          stroke-dasharray: 1306.73px, 1036.73px;
+          stroke-dashoffset: 976.73px;
+        }
+      }
+      &-text0 {
+        position: absolute;
+        left: 365px;
+        top: 70px;
+        opacity: 0;
+        transform: translate(-170px, 210px);
+        transition: transform .4s ease-out, opacity .4s ease-out;
+      }
+      &-text1 {
+        position: absolute;
+        top: 525px;
+        left: 339px;
+        opacity: 0;
+        transform: translate(-150px, -230px);
+        transition: transform .4s ease-out, opacity .4s ease-out;
+      }
+      &-text2 {
+        position: absolute;
+        top: 78px;
+        left: 30px;
+        opacity: 0;
+        transform: translate(170px, 210px);
+        transition: transform .4s ease-out, opacity .4s ease-out;      }
+    }
+  }
+}

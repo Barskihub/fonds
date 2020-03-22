@@ -1,0 +1,290 @@
+@media (max-width: 1800px) {
+  .wrapper {
+    max-width: 1400px;
+  }
+  .item {
+    padding-left: 0;
+    width: 100%;
+    min-height: 835px;
+    max-height: 840px;
+    height: 100vh;
+    &__bottom {
+      left: 656px;
+      height: 70px;
+      &-btn {
+        &:hover {
+          height: 52px;
+        }
+      }
+
+    }
+    &__title {
+      margin-left: 35px;
+    }
+    &__subtitle {
+      display: none;
+    }
+    &__top {
+      width: 100%;
+      margin: auto;
+      padding-left: 0;
+    }
+  }
+  .main {
+    width: 100%;
+  }
+  .menu {
+    &__btn, &__nav {
+      right: 0;
+    }
+  }
+  .map {
+    &::after {
+      height: 2px;
+      width: 550px;
+    }
+    &__list {
+      margin-left: 100px;
+    }
+    &__p {
+      margin-left: 90px;
+    }
+    &__inner {
+      width: 1290px;
+      margin: auto;
+      margin-left: 120px;
+    }
+    &__grid {
+      width: 1359px;
+      &_gray {
+        width: 910px;
+        &_l {
+          transform: translateX(495px);
+        }
+      }
+    }
+  }
+  .about {
+    &__decor {
+      &-wrap {
+        left: 110px;
+        top: -70px;
+      }
+    }
+    &__under {
+      &-item {
+        top: 772px;
+        right: 332px;
+      }
+    }
+    &__p {
+      margin-left: 217px;
+      width: 470px;
+      font-size: 12px;
+      line-height: 24px;
+    }
+    &__img {
+      &-p3 {
+
+      }
+    }
+    &__title {
+      &_border {
+        margin-top: 30px;
+        margin-left: 217px;
+        padding-bottom: 15px;
+      }
+    }
+  }
+  .stat {
+    &__inner {
+      margin: 10px auto auto;
+    }
+  }
+  .reason {
+    &__inner {
+      margin-top: 35px;
+    }
+    &__chart {
+      &-item {
+        &-n0 {
+          width: 290px;
+        }
+      }
+    }
+  }
+  .how {
+    &__item {
+      &_l {
+        margin-right: 0;
+      }
+      &-list {
+        &-item {
+          margin-bottom: 25px;
+        }
+      }
+      &-subtitle {
+        &_l {
+          margin-top: 24px;
+          margin-bottom: 25px;
+        }
+      }
+      &-under {
+        &-chart {
+          margin-top: -5px;
+        }
+      }
+    }
+    &__inner {
+      margin-top: 20px;
+    }
+  }
+  .sector {
+    &__inner {
+      margin-top: 20px;
+    }
+    &__item {
+      &-line {
+        margin-left: -105px;
+      }
+      &-svg {
+        margin-left: 0;
+        &-item {
+          margin-left: -105px;
+        }
+      }
+    }
+  }
+  .end {
+    &__inner {
+      margin: 30px auto auto;
+    }
+    &__bottom {
+      max-width: none;
+      padding-top: 15px;
+      margin-top: 30px;
+    }
+  }
+}
+@media (max-width: 1450px) {
+  .wrapper {
+    width: 1200px;
+  }
+  .item {
+    &__top {
+      width: 100%;
+      padding-left: 0;
+    }
+    &__bottom {
+      left: 578px;
+      height: 77px;
+    }
+  }
+  .map {
+    &__list {
+      margin-left: 30px;
+    }
+    &__inner {
+      margin-left: 10px;
+    }
+    &__grid {
+      width: 100%;
+      &_gray {
+        width: 100%;
+        &_l {
+          transform: translateX(437px);
+        }
+      }
+    }
+  }
+  .menu {
+    &__btn, &__nav {
+      right: 0;
+    }
+  }
+  .about {
+    &__under-item {
+      right: 190px;
+    }
+    &__p {
+      margin-left: 217px;
+    }
+    &__zig3 {
+      right: 612px;
+    }
+    &__img {
+      &-p1 {
+        width: 160px;
+        right: 424px;
+        top: 579px;
+      }
+      &-p3 {
+        width: 480px;
+        top: 385px;
+      }
+    }
+    &__title {
+      &_border {
+        margin-left: 217px;
+      }
+    }
+  }
+  .reason {
+    &__under-chart {
+      margin: 51px auto auto 117px;
+    }
+    &__chart {
+      &-name {
+        font-size: 13px;
+        width: 345px;
+      }
+    }
+    &__list {
+      &-item {
+        width: 500px;
+        font-size: 13px;
+      }
+    }
+  }
+  .how {
+    &__item {
+      &_l {
+        width: 525px;
+      }
+      &-list {
+        &-item {
+          font-size: 13px;
+          line-height: 25px;
+        }
+      }
+    }
+  }
+  .stat {
+    &__table {
+      margin-left: 10px;
+    }
+    &__item {
+      &-bottom {
+        left: -1px;
+      }
+    }
+  }
+  .sector {
+    &__item {
+      &-p {
+        width: 435px;
+      }
+    }
+  }
+  .end {
+    &__item {
+      &-p {
+        width: 515px;
+      }
+    }
+    &__bottom {
+      padding-top: 10px;
+      margin-top: 0;
+    }
+  }
+}

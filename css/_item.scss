@@ -1,0 +1,240 @@
+.item {
+  padding-left: 7vw;
+  position: relative;
+  height: 100vh;
+  min-height: 1080px;
+  max-height: 1100px;
+  width: 100vw;
+  max-width: 1920px;
+  overflow: hidden;
+  &__decor, &__decor_l, &__decor_m, &__decor_h {
+    transition: transform .4s ease-out;
+  }
+  &__c0 {
+    position: absolute;
+    top: 26px;
+    right: 630px;
+    transform: translate(10px, -70px);
+    &_l {
+      position: absolute;
+      top: 39px;
+      right: 573px;
+      transform: translate(10px, -70px);
+    }
+    &_m {
+      position: absolute;
+      top: 35px;
+      right: 588px;
+      transform: translate(10px, -70px);
+    }
+    &_h {
+      position: absolute;
+      top: 29px;
+      right: 377px;
+      transform: translate(10px, -70px);
+    }
+  }
+  &__zig0 {
+    position: absolute;
+    top: 57px;
+    right: 484px;
+    transform: translate(330px, -90px);
+    &_l {
+      position: absolute;
+      top: 72px;
+      right: 495px;
+      transform: translate(330px, -90px);
+    }
+    &_m {
+      position: absolute;
+      top: 65px;
+      right: 443px;
+      transform: translate(330px, -90px);
+    }
+    &_h {
+      position: absolute;
+      top: 72px;
+      right: 495px;
+      transform: translate(330px, -90px);
+    }
+  }
+  &__c1 {
+    position: absolute;
+    top: 96px;
+    right: 384px;
+    transform: translate(-130px, -140px);
+    &_l {
+      position: absolute;
+      top: 92px;
+      right: 351px;
+      transform: translate(-130px, -140px);
+    }
+    &_m {
+      position: absolute;
+      top: 92px;
+      right: 351px;
+      transform: translate(-130px, -140px);
+    }
+    &_h {
+      position: absolute;
+      top: 105px;
+      right: 341px;
+      transform: translate(-130px, -140px);
+    }
+  }
+  &__c2 {
+    position: absolute;
+    top: 111px;
+    right: 264px;
+    transform: translate(320px, 160px);
+    &_l {
+      position: absolute;
+      top: 45px;
+      right: 275px;
+      transform: translate(320px, 160px);
+    }
+    &_m {
+      position: absolute;
+      top: 117px;
+      right: 281px;
+      transform: translate(320px, 160px);
+    }
+    &_h {
+      position: absolute;
+      top: 62px;
+      right: 241px;
+      transform: translate(320px, 160px);
+    }
+  }
+  &__c3 {
+    position: absolute;
+    top: 150px;
+    right: 435px;
+    transform: translate(450px, -130px);
+    &_l {
+      position: absolute;
+      top: 163px;
+      right: 427px;
+      transform: translate(450px, -130px);
+    }
+    &_m {
+      position: absolute;
+      top: 186px;
+      right: 455px;
+      transform: translate(450px, -130px);
+    }
+    &_h {
+      position: absolute;
+      top: 153px;
+      right: 448px;
+      transform: translate(450px, -130px);
+    }
+  }
+  &__sq0 {
+    position: absolute;
+    top: 110px;
+    right: 571px;
+    transform: translate(150px, -150px);
+    &_l {
+      position: absolute;
+      top: 124px;
+      right: 686px;
+      transform: translate(150px, -150px);
+    }
+    &_m {
+      position: absolute;
+      top: 120px;
+      right: 635px;
+      transform: translate(150px, -150px);
+    }
+    &_h {
+      position: absolute;
+      top: 153px;
+      right: 565px;
+      transform: translate(150px, -180px);
+    }
+  }
+  &__zig1 {
+    position: absolute;
+    top: 138px;
+    right: 678px;
+    transform: translate(-60px, -160px);
+    &_l {
+      position: absolute;
+      top: 134px;
+      right: 575px;
+      transform: translate(-60px, -160px);
+    }
+    &_m {
+      position: absolute;
+      top: 127px;
+      right: 490px;
+      transform: translate(-60px, -160px);
+    }
+    &_h {
+      position: absolute;
+      top: 163px;
+      right: 303px;
+      transform: translate(-60px, -180px);
+    }
+  }
+  &__top {
+    padding-top: 89px;
+    display: flex;
+    position: relative;
+    width: 100%;
+  }
+  &__title {
+    margin-left: 127px;
+    font-family: sans-serif;
+    font-size: 23px;
+    color: #000000;
+    width: 398px;
+    padding-bottom: 28px;
+    border-bottom: 1px solid #EF4545;
+    font-weight: normal;
+  }
+  &__subtitle {
+    font-family: sans-serif;
+    font-size: 23px;
+    width: 435px;
+    height: 46px;
+    border-left: 1px solid #C5C5C5;
+    padding-left: 63px;
+    position: absolute;
+    left: 600px;
+    top: 93px;
+  }
+  &__bottom {
+    display: flex;
+    justify-content: center;
+    height: 90px;
+    position: absolute;
+    left: 937px;
+    bottom: 0;
+    &-btn {
+      border: none;
+      background: none;
+      width: 40px;
+      height: 48px;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: height .2s;
+      &-svg {
+        height: 100%;
+        transition: height .2s;
+      }
+      &:hover {
+        cursor: pointer;
+        height: 58px;
+      }
+      &:hover &-svg {
+        & path {
+          stroke:#EF4545;
+        }
+      }
+    }
+  }
+}

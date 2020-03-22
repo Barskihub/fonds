@@ -1,0 +1,149 @@
+.sector {
+  &__inner {
+    display: flex;
+    margin-top: 118px;
+    max-width: 1540px;
+    justify-content: space-between;
+  }
+  &__subtitle {
+    left: 700px;
+  }
+  &__item {
+    position: relative;
+    &-cze {
+      left: 260px;
+      bottom: 525px;
+    }
+    &-dnk {
+      left: 550px;
+      bottom: 525px;
+    }
+    &-lux {
+      left: 760px;
+      bottom: 535px;
+    }
+    &-pol {
+      left: 340px;
+      bottom: 485px;
+    }
+    &-nor {
+      left: 400px;
+      bottom: 485px;
+    }
+    &-fin {
+      bottom: 455px;
+      left: 520px;
+    }
+    &-ita {
+      bottom: 435px;
+      left: 370px;
+    }
+    &-nld {
+      left: 770px;
+      bottom: 400px;
+    }
+    &-swe {
+      left: 570px;
+      bottom: 375px;
+    }
+    &-esp {
+      left: 450px;
+      bottom: 355px;
+    }
+    &-deu {
+      left: 390px;
+      bottom: 345px;
+    }
+    &-svk {
+      left: 270px;
+      bottom: 320px;
+    }
+    &-gbr {
+      left: 580px;
+      bottom: 360px;
+    }
+    &-bel {
+      left: 690px;
+      bottom: 320px;
+    }
+    &-irl {
+      left: 590px;
+      bottom: 265px;
+    }
+    &-est {
+      left: 415px;
+      bottom: 258px;
+    }
+    &-fra {
+      left: 365px;
+      bottom: 240px;
+    }
+    &-prt {
+      left: 250px;
+      bottom: 165px;
+    }
+    &-hun {
+      left: 325px;
+      bottom: 95px;
+    }
+    &-title {
+      width: 420px;
+      font-family: sans-serif;
+      font-size: 23px;
+      font-weight: normal;
+    }
+    &-p {
+      margin-top: 48px;
+      width: 585px;
+      font-size: 15px;
+      font-family: sans-serif;
+      line-height: 27px;
+    }
+    &-line {
+      position: absolute;
+      left: 255px;
+      top: 268px;
+      width: 560px;
+      height: 2px;
+      background-color: #EF4545;
+      transform: rotate(-12deg);
+      transition: all .4s ease-out;
+      &_disabled {
+        top: 558px;
+        transform: rotate(0deg);
+      }
+    }
+    &-svg {
+      margin-left: 105px;
+      &-item {
+        position: absolute;
+        transition: bottom .4s ease-out;
+        &:hover::after {
+          content: attr(data-tooltip);
+          background-color: #ffffff;
+          color: black;
+          font-family: sans-serif;
+          display: block;
+          position: absolute;
+          left: 50px;
+          top: 20px;
+          padding: 10px 30px;
+          border-radius: 10px;
+          box-shadow: 0 0 15px 1px rgba(34, 60, 80, 0.2);
+          z-index: 5;
+        }
+        &:hover::before {
+          content: "";
+          position: absolute;
+          left: 0;
+          top: 1px;
+          background: #EF4545;
+          display: block;
+          width: 13px;
+          height: 13px;
+          border-radius: 100px
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="729.667" height="596" viewBox="0 0 729.667 596">
+  <g id="Component_46_1" data-name="Component 46 – 1" transform="translate(1)">
+    <text id="Средний_уровень_счастья_в_стране" data-name="Средний уровень счастья в стране" transform="translate(276 19)" font-size="13" font-family="Helvetica"><tspan x="0" y="0">Средний уровень счастья в стране</tspan></text>
+    <text id="Индекс_благополучия" data-name="Индекс
+ благополучия" transform="translate(88 10)" font-size="13" font-family="Helvetica"><tspan x="-45.348" y="0">Индекс</tspan><tspan x="-88.264" y="19" xml:space="preserve"> благополучия</tspan></text>
+    <text id="Линейная_регрессия" data-name="Линейная регрессия" transform="translate(600 21)" font-size="13" font-family="Helvetica"><tspan x="0" y="0">Линейная регрессия</tspan></text>
+    <path id="Path_196" data-name="Path 196" d="M1770,3067.333v5.914" transform="translate(-1378.76 -2507.876)" fill="none" stroke="#787878" stroke-width="1"/>
+    <path id="Path_197" data-name="Path 197" d="M1770,3067.333v5.914" transform="translate(-1225.625 -2507.876)" fill="none" stroke="#8f8f8f" stroke-width="1"/>
+    <path id="Path_198" data-name="Path 198" d="M1770,3067.333v5.914" transform="translate(-1067.292 -2507.876)" fill="none" stroke="#8f8f8f" stroke-width="1"/>
+    <path id="Path_190" data-name="Path 190" d="M.271,644.154V0" transform="translate(84.513 521.5) rotate(-90)" fill="none" stroke="#dcdcdc" stroke-width="1" opacity="0.57"/>
+    <path id="Path_204" data-name="Path 204" d="M4.771,644.154V0" transform="translate(84.513 429) rotate(-90)" fill="none" stroke="#dcdcdc" stroke-width="1" opacity="0.57"/>
+    <path id="Path_205" data-name="Path 205" d="M1.1,644.154V0" transform="translate(84.513 328.333) rotate(-90)" fill="none" stroke="#dcdcdc" stroke-width="1" opacity="0.57"/>
+    <path id="Path_206" data-name="Path 206" d="M1.771,644.154V0" transform="translate(84.513 232) rotate(-90)" fill="none" stroke="#dcdcdc" stroke-width="1" opacity="0.57"/>
+    <path id="Path_207" data-name="Path 207" d="M0,644.154V0" transform="translate(84.513 133.229) rotate(-90)" fill="none" stroke="#dcdcdc" stroke-width="1" opacity="0.57"/>
+    <text id="_6.5" data-name="6.5" transform="translate(57 527)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-18.072" y="0">6.5</tspan></text>
+    <text id="_7" data-name="7" transform="translate(57 426)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-7.23" y="0">7</tspan></text>
+    <text id="_7.5" data-name="7.5" transform="translate(59 333)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-18.072" y="0">7.5</tspan></text>
+    <text id="_8" data-name="8" transform="translate(59 233)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-7.23" y="0">8</tspan></text>
+    <text id="_8.5" data-name="8.5" transform="translate(61 137)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-18.072" y="0">8.5</tspan></text>
+    <text id="_5" data-name="5" transform="translate(115 593)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-7.23" y="0">5</tspan></text>
+    <text id="_10" data-name="10" transform="translate(242 593)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-14.46" y="0">10</tspan></text>
+    <text id="_15" data-name="15" transform="translate(396 593)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-14.46" y="0">15</tspan></text>
+    <text id="_20" data-name="20" transform="translate(551 593)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-14.46" y="0">20</tspan></text>
+    <text id="_25" data-name="25" transform="translate(710 593)" fill="#242424" font-size="13" font-family="Helvetica"><tspan x="-14.46" y="0">25</tspan></text>
+    <path id="Path_193" data-name="Path 193" d="M1774,3068.786h644.154" transform="translate(-1689.487 -2509.329)" fill="none" stroke="#a4a4a4" stroke-width="1"/>
+    <path id="Path_194" data-name="Path 194" d="M1770,3067.333v5.914" transform="translate(-1663.804 -2507.876)" fill="none" stroke="#818181" stroke-width="1"/>
+    <path id="Path_195" data-name="Path 195" d="M1770,3067.333v5.914" transform="translate(-1533.445 -2507.876)" fill="none" stroke="#7e7e7e" stroke-width="1"/>
+    <path id="Path_199" data-name="Path 199" d="M1770,3067.333v5.914" transform="translate(3151.846 -1248.586) rotate(90)" fill="none" stroke="#7e7e7e" stroke-width="1"/>
+    <path id="Path_200" data-name="Path 200" d="M1770,3067.333v5.914" transform="translate(3151.846 -1345.586) rotate(90)" fill="none" stroke="#7e7e7e" stroke-width="1"/>
+    <path id="Path_201" data-name="Path 201" d="M1770,3067.333v5.914" transform="translate(3151.846 -1442.586) rotate(90)" fill="none" stroke="#7e7e7e" stroke-width="1"/>
+    <path id="Path_202" data-name="Path 202" d="M1770,3067.333v5.914" transform="translate(3151.846 -1539.586) rotate(90)" fill="none" stroke="#7e7e7e" stroke-width="1"/>
+    <path id="Path_203" data-name="Path 203" d="M1770,3067.333v5.914" transform="translate(3151.846 -1636.586) rotate(90)" fill="none" stroke="#7e7e7e" stroke-width="1"/>
+    <path id="Path_177" data-name="Path 177" d="M1797,3222.457V2724" transform="translate(-1712.557 -2663)" fill="none" stroke="#5a5a5a" stroke-width="1" opacity="0.57"/>
+    <path id="Path_180" data-name="Path 180" d="M2566,3123.333l544.667-125.667" transform="translate(-2398 -2795)" fill="none" stroke="#ef4545" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_208" data-name="Path 208" d="M2566,3124.833h24" transform="translate(-2006 -3107.833)" fill="none" stroke="#ef4545" stroke-linecap="round" stroke-width="1"/>
+    <text id="HUN" transform="translate(268 544)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-27.918" y="0">HUN</tspan></text>
+    <text id="PRT" transform="translate(238 472)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-25.92" y="0">PRT</tspan></text>
+    <text id="SVK" transform="translate(203 322)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-26.594" y="0">SVK</tspan></text>
+    <text id="DEO" transform="translate(352 297)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-27.924" y="0">DEO</tspan></text>
+    <text id="ITA" transform="translate(323 200)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-20.365" y="0">ITA</tspan></text>
+    <text id="DNK" transform="translate(497 117)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-27.918" y="0">DNK</tspan></text>
+    <text id="POL" transform="translate(311 159)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-26.588" y="0">POL</tspan></text>
+    <text id="cze" transform="translate(201 119)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-25.92" y="0">CZE</tspan></text>
+    <text id="NOR" transform="translate(383 159)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-28.586" y="0">NOR</tspan></text>
+    <text id="ESP" transform="translate(407 288)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-25.932" y="0">ESP</tspan></text>
+    <text id="SWE" transform="translate(523 265)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-29.254" y="0">SWE</tspan></text>
+    <text id="NLD" transform="translate(710 245)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-26.582" y="0">NLD</tspan></text>
+    <text id="LUX" transform="translate(705 110)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-25.92" y="0">LUX</tspan></text>
+    <text id="BEL" transform="translate(612 312)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-25.92" y="0">BEL</tspan></text>
+    <text id="IRL" transform="translate(532 378)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-21.25" y="0">IRL</tspan></text>
+    <text id="GBR" transform="translate(532 279)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-28.586" y="0">GBR</tspan></text>
+    <text id="fra" transform="translate(326 404)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-26.582" y="0">FRA</tspan></text>
+    <text id="EST" transform="translate(368 390)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-25.258" y="0">EST</tspan></text>
+    <circle id="Ellipse_64" data-name="Ellipse 64" cx="6.5" cy="6.5" r="6.5" transform="translate(219 533)" fill="#727272"/>
+    <circle id="Ellipse_65" data-name="Ellipse 65" cx="6.5" cy="6.5" r="6.5" transform="translate(195 461)" fill="#727272"/>
+    <circle id="Ellipse_66" data-name="Ellipse 66" cx="6.5" cy="6.5" r="6.5" transform="translate(160 311)" fill="#727272"/>
+    <circle id="Ellipse_83" data-name="Ellipse 83" cx="6.5" cy="6.5" r="6.5" transform="translate(255 7)" fill="#727272"/>
+    <circle id="Ellipse_69" data-name="Ellipse 69" cx="6.5" cy="6.5" r="6.5" transform="translate(302 285)" fill="#727272"/>
+    <circle id="Ellipse_71" data-name="Ellipse 71" cx="6.5" cy="6.5" r="6.5" transform="translate(280 189)" fill="#727272"/>
+    <circle id="Ellipse_79" data-name="Ellipse 79" cx="6.5" cy="6.5" r="6.5" transform="translate(448 106)" fill="#727272"/>
+    <circle id="Ellipse_72" data-name="Ellipse 72" cx="6.5" cy="6.5" r="6.5" transform="translate(265 148)" fill="#727272"/>
+    <circle id="Ellipse_74" data-name="Ellipse 74" cx="6.5" cy="6.5" r="6.5" transform="translate(160 108)" fill="#727272"/>
+    <circle id="Ellipse_73" data-name="Ellipse 73" cx="6.5" cy="6.5" r="6.5" transform="translate(332 148)" fill="#727272"/>
+    <circle id="Ellipse_70" data-name="Ellipse 70" cx="6.5" cy="6.5" r="6.5" transform="translate(361 277)" fill="#727272"/>
+    <circle id="Ellipse_75" data-name="Ellipse 75" cx="6.5" cy="6.5" r="6.5" transform="translate(472 255)" fill="#727272"/>
+    <circle id="Ellipse_77" data-name="Ellipse 77" cx="6.5" cy="6.5" r="6.5" transform="translate(665 234)" fill="#727272"/>
+    <circle id="Ellipse_81" data-name="Ellipse 81" cx="6.5" cy="6.5" r="6.5" transform="translate(662 99)" fill="#727272"/>
+    <circle id="Ellipse_80" data-name="Ellipse 80" cx="6.5" cy="6.5" r="6.5" transform="translate(568 300)" fill="#727272"/>
+    <circle id="Ellipse_82" data-name="Ellipse 82" cx="6.5" cy="6.5" r="6.5" transform="translate(492 367)" fill="#727272"/>
+    <circle id="Ellipse_76" data-name="Ellipse 76" cx="6.5" cy="6.5" r="6.5" transform="translate(483 267)" fill="#727272"/>
+    <circle id="Ellipse_67" data-name="Ellipse 67" cx="6.5" cy="6.5" r="6.5" transform="translate(280 393)" fill="#727272"/>
+    <circle id="Ellipse_68" data-name="Ellipse 68" cx="6.5" cy="6.5" r="6.5" transform="translate(327 379)" fill="#727272"/>
+    <g id="Component_24_1" data-name="Component 24 – 1" transform="translate(413 174)">
+      <text id="FIN" transform="translate(43 13)" fill="#6d6d6d" font-size="12" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.08em"><tspan x="-21.25" y="0">FIN</tspan></text>
+      <rect id="Rectangle_79" data-name="Rectangle 79" width="3" height="3" transform="translate(5 7)" fill="#fff"/>
+      <circle id="Ellipse_78" data-name="Ellipse 78" cx="6.5" cy="6.5" r="6.5" transform="translate(0 1)" fill="#727272"/>
+    </g>
+  </g>
+</svg>
